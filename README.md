@@ -20,3 +20,4 @@ Movies passing the Bechdel test (the red bars):
 * ...are awarded 0.12 *fewer* stars by IMDB's amateur reviewers
 
 ![Summary plot of Bechdel statistics](https://raw.githubusercontent.com/brianckeegan/Bechdel/master/Takeaway.png)
+# teste-jupyter
